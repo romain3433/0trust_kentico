@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/romain/Documents/webapps/webscienceAI/src/SciQuery-Lab.csproj",
+      "projectUniqueName": "/home/romain/Documents/webapps/SciQuery-Lab/src/SciQuery-Lab.csproj",
       "projectName": "SciQuery-Lab",
-      "projectPath": "/home/romain/Documents/webapps/webscienceAI/src/SciQuery-Lab.csproj",
+      "projectPath": "/home/romain/Documents/webapps/SciQuery-Lab/src/SciQuery-Lab.csproj",
       "packagesPath": "/home/romain/.nuget/packages/",
-      "outputPath": "/home/romain/Documents/webapps/webscienceAI/src/obj/",
+      "outputPath": "/home/romain/Documents/webapps/SciQuery-Lab/src/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/romain/.nuget/NuGet/NuGet.Config"

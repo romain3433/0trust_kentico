@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mrTiGzseqjM1HXkCd8+fPk68kW30/D7ZIGJ4vZ0FS3mG4yr15pGjYoKXAyUcIeIXx/bx3K3UTLV7tdh38OqE9w==",
+  "dgSpecHash": "TBnGr5x1baenjicZbZITuFz+i3V4ka8A9eyyKQQs8OXGaMKpX5OVu5qR69ptUz+vYWpoviITLNASCZ09k6ozGQ==",
   "success": true,
-  "projectFilePath": "/home/romain/Documents/webapps/webscienceAI/src/SciQuery-Lab.csproj",
+  "projectFilePath": "/home/romain/Documents/webapps/SciQuery-Lab/src/SciQuery-Lab.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
